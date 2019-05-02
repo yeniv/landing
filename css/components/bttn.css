@@ -1,0 +1,10 @@
+.bttn {
+  padding: 16px 36px;
+  background-color: rgb(31, 221, 136);
+  background-position: top;
+  border-radius: 30px;
+  display: inline-block;
+}
+a.bttn {
+  color: white;
+}
